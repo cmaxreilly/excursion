@@ -1,6 +1,7 @@
 body {
     background-color: black;
     font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
 }
 
 h1 {
@@ -10,6 +11,15 @@ h1 {
 
 p {
     color: grey;
+}
+
+video {
+    display: block;
+    margin: 0 auto;
+}
+
+footer {
+    text-align: right;
 }
 
 h1.body-title {
