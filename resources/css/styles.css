@@ -1,11 +1,17 @@
 body {
     background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
     color: white;
+    font-weight: normal;
 }
 
 p {
     color: grey;
+}
+
+h1.body-title {
+    font-weight: 550;
 }
